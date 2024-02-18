@@ -11,4 +11,7 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 
 [Problem 5](P5.py): 347. Top K Frequent Elements
 
+[Problem 6](P6.py): 238. Product of Array Except Self
+
 [Problem 9](P9.py): 125. Valid Palindrome
+
