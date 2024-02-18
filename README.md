@@ -15,5 +15,7 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 
 [Problem 7](P7.py): 271. Encode and Decode Strings
 
+[Problem 8](P8.py): 128. Longest Consecutive Sequence
+
 [Problem 9](P9.py): 125. Valid Palindrome
 
