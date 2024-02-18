@@ -13,5 +13,7 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 
 [Problem 6](P6.py): 238. Product of Array Except Self
 
+[Problem 7](P7.py): 271. Encode and Decode Strings
+
 [Problem 9](P9.py): 125. Valid Palindrome
 
