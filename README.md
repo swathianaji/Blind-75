@@ -6,3 +6,5 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 [Problem 2](P2.py): 242. Valid Anagram
 
 [Problem 3](P3.py): 1. Two Sum
+
+[Problem 9](P9.py): 125. Valid Palindrome
