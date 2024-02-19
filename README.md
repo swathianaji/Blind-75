@@ -26,3 +26,5 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 [Problem 12](P12.py): 121. Best Time to Buy and Sell Stock
 
 [Problem 13](P13.py): 3. Longest Substring Without Repeating Characters
+
+[Problem 14](P14.py):  424. Longest Repeating Character Replacement
