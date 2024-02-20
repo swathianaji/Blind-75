@@ -28,3 +28,5 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 [Problem 13](P13.py): 3. Longest Substring Without Repeating Characters
 
 [Problem 14](P14.py):  424. Longest Repeating Character Replacement
+
+[Problem 16](P16.py):  20. Valid Parentheses
