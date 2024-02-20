@@ -30,3 +30,5 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 [Problem 14](P14.py):  424. Longest Repeating Character Replacement
 
 [Problem 16](P16.py):  20. Valid Parentheses
+
+[Problem 19](P19.py):  206. Reverse Linked List
