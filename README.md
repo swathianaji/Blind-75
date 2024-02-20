@@ -38,3 +38,7 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 [Problem 72](P71.py):  191. Number of 1 Bits
 
 [Problem 72](P72.py):  338. Counting Bits
+
+[Problem 73](P73.py):  190. Reverse Bits
+
+[Problem 74](P74.py):  268. Missing Number
