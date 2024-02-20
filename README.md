@@ -35,4 +35,6 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 
 [Problem 20](P19.py):  21. Merge Two Sorted Lists
 
-[Problem 20](P71.py):  191. Number of 1 Bits
+[Problem 72](P71.py):  191. Number of 1 Bits
+
+[Problem 72](P72.py):  338. Counting Bits
