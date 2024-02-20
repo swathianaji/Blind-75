@@ -34,3 +34,5 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 [Problem 19](P19.py):  206. Reverse Linked List
 
 [Problem 20](P19.py):  21. Merge Two Sorted Lists
+
+[Problem 20](P71.py):  191. Number of 1 Bits
