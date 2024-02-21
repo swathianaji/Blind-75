@@ -31,9 +31,15 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 
 [Problem 16](P16.py):  20. Valid Parentheses
 
+[Problem 17](P17.py):  153. Find Minimum in Rotated Sorted Array
+
 [Problem 19](P19.py):  206. Reverse Linked List
 
-[Problem 20](P19.py):  21. Merge Two Sorted Lists
+[Problem 20](P20.py):  21. Merge Two Sorted Lists
+
+[Problem 21](P21.py):  143. Reorder List
+
+[Problem 23](P23.py):  141. Linked List Cycle
 
 [Problem 72](P71.py):  191. Number of 1 Bits
 
