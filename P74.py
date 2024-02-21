@@ -1,7 +1,7 @@
 """
-Problem: 190. Reverse Bits
+Problem: 268. Missing Number
 
-URL: https://leetcode.com/problems/reverse-bits/description/
+URL: https://leetcode.com/problems/missing-number/description/
 
 Author: Swathi Anaji Revanasiddappa <srevanas@asu.edu>
 

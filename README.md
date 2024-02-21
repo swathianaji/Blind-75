@@ -39,6 +39,8 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 
 [Problem 21](P21.py):  143. Reorder List
 
+[Problem 22](P22.py):  19. Remove Nth Node From End of List
+
 [Problem 23](P23.py):  141. Linked List Cycle
 
 [Problem 72](P71.py):  191. Number of 1 Bits
