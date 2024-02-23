@@ -45,6 +45,10 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 
 [Problem 68](P68.py):  48. Rotate Image
 
+[Problem 69](P69.py): 54. Spiral Matrix
+
+![Alt text](matrix_spiral_traversal.jpeg?raw=true "Title")
+
 [Problem 70](P70.py):  173. Set Matrix Zeroes
 
 [Problem 71](P71.py):  191. Number of 1 Bits
