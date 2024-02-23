@@ -43,7 +43,9 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 
 [Problem 23](P23.py):  141. Linked List Cycle
 
-[Problem 72](P71.py):  191. Number of 1 Bits
+[Problem 70](P70.py):  173. Set Matrix Zeroes
+
+[Problem 71](P71.py):  191. Number of 1 Bits
 
 [Problem 72](P72.py):  338. Counting Bits
 
