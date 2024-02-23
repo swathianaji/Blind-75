@@ -47,7 +47,7 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 
 [Problem 69](P69.py): 54. Spiral Matrix
 
-![Alt text](matrix_spiral_traversal.jpeg?raw=true "Title")
+![Alt text](P69_matrix_spiral_traversal.jpeg?raw=true "Spiral Matrix Traversal")
 
 [Problem 70](P70.py):  173. Set Matrix Zeroes
 
