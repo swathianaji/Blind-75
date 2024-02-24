@@ -51,6 +51,10 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 
 [Problem 28](P28.py):   572. Subtree of Another Tree
 
+[Problem 29](P29.py):   235. Lowest Common Ancestor of a Binary Search Tree
+
+[Problem 30](P30.py):   102. Binary Tree Level Order Traversal
+
 [Problem 68](P68.py):  48. Rotate Image
 
 [Problem 69](P69.py): 54. Spiral Matrix
