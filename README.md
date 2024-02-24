@@ -43,6 +43,12 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 
 [Problem 23](P23.py):  141. Linked List Cycle
 
+[Problem 25](P25.py):   226. Invert Binary Tree
+
+[Problem 26](P26.py):   104. Maximum Depth of Binary Tree
+
+[Problem 27](P27.py):   100. Same Tree
+
 [Problem 68](P68.py):  48. Rotate Image
 
 [Problem 69](P69.py): 54. Spiral Matrix
