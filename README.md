@@ -63,6 +63,8 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 
 [Problem 37](P37.py):   211. Design Add and Search Words Data Structure
 
+[Problem 40](P40.py):    79. Word Search
+
 [Problem 68](P68.py):  48. Rotate Image
 
 [Problem 69](P69.py): 54. Spiral Matrix
