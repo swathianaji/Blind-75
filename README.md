@@ -59,6 +59,10 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 
 [Problem 32](P32.py):   230. Kth Smallest Element in a BST
 
+[Problem 36](P36.py):   208. Implement Trie (Prefix Tree)
+
+[Problem 37](P37.py):   211. Design Add and Search Words Data Structure
+
 [Problem 68](P68.py):  48. Rotate Image
 
 [Problem 69](P69.py): 54. Spiral Matrix
