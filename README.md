@@ -55,6 +55,10 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 
 [Problem 30](P30.py):   102. Binary Tree Level Order Traversal
 
+[Problem 31](P31.py):   98. Validate Binary Search Tree
+
+[Problem 32](P32.py):   230. Kth Smallest Element in a BST
+
 [Problem 68](P68.py):  48. Rotate Image
 
 [Problem 69](P69.py): 54. Spiral Matrix
