@@ -69,6 +69,8 @@ Solutions for the Blind 75 problem challenge from NeetCode.io
 
 [Problem 41](P41.py):    39. Combination Sum
 
+[Problem 42](P42.py):    200. Number of Islands
+
 [Problem 68](P68.py):  48. Rotate Image
 
 [Problem 69](P69.py): 54. Spiral Matrix
